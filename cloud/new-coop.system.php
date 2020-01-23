@@ -164,7 +164,7 @@ require '../asset-core/nav-start.php';
                         </div>
                       </fieldset>
                       <!-- Step 2 -->
-                      <h6>&nbsp;</h6>
+                      <!-- <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
@@ -212,10 +212,10 @@ require '../asset-core/nav-start.php';
                           </div>
 
                         </div>
-                      </fieldset>
+                      </fieldset> -->
                       <!-- Step 3 -->
-                      <h6>&nbsp;</h6>
-                      <fieldset>
+                      <!-- <h6>&nbsp;</h6> -->
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -423,9 +423,9 @@ require '../asset-core/nav-start.php';
                             </div>
                           </div>
                         </div>
-                      </fieldset>
+                      </fieldset> -->
                       <!-- Step 4 -->
-                      <h6>&nbsp;</h6>
+                      <!-- <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
@@ -794,8 +794,8 @@ require '../asset-core/nav-start.php';
                               </div>
                             </div>
                         </div>
-                      </fieldset>
-                      <h6>&nbsp;</h6>
+                      </fieldset> -->
+                      <!-- <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
@@ -980,8 +980,8 @@ require '../asset-core/nav-start.php';
                           </div>
                         </div>
                       </fieldset>
-                      <h6>&nbsp;</h6>
-                      <fieldset>
+                      <h6>&nbsp;</h6> -->
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -1058,8 +1058,8 @@ require '../asset-core/nav-start.php';
                             </div>
                           </div>
                         </div>
-                      </fieldset>
-                      <h6>&nbsp;</h6>
+                      </fieldset> -->
+                      <!-- <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
@@ -1133,9 +1133,9 @@ require '../asset-core/nav-start.php';
                           </div>
                         </div>
 
-                      </fieldset>
+                      </fieldset> -->
                       <!-- tab pad 12 -->
-                      <h6>&nbsp;</h6>
+                      <!-- <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
@@ -1282,8 +1282,8 @@ require '../asset-core/nav-start.php';
                           </div>
                         </div>
                       </fieldset>
-                      <h6>&nbsp;</h6>
-                      <fieldset>
+                      <h6>&nbsp;</h6> -->
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -1691,8 +1691,8 @@ require '../asset-core/nav-start.php';
                           </div>
                         </div>
                       </fieldset>
-                      <h6>&nbsp;</h6>
-                      <fieldset>
+                      <h6>&nbsp;</h6> -->
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -1908,8 +1908,8 @@ require '../asset-core/nav-start.php';
                           </div>
                         </div>
                       </fieldset>
-                      <h6>&nbsp;</h6>
-                      <fieldset>
+                      <h6>&nbsp;</h6> -->
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -2080,7 +2080,7 @@ require '../asset-core/nav-start.php';
                             </div>
                           </div>
                         </div>
-                      </fieldset>
+                      </fieldset> -->
                       <h6>&nbsp;</h6>
                       <fieldset>
                         <div class="row">

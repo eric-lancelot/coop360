@@ -450,12 +450,12 @@ require '../asset-core/nav-start.php';
                               <label>If Married: Husbands? Wife’s full Name</label>
                               <input type="text" name="" class="form-control">
 
-                              <label>If Married: Does your wife/husband belong to a cooperative</label>
+                              <!-- <label>If Married: Does your wife/husband belong to a cooperative</label>
                               <select class="form-control">
                                 <option value="">Choose</option>
                                 <option value="YES">YES</option>
                                 <option value="NO">NO</option>
-                              </select>
+                              </select> -->
                           </div>
                         </div>
                       </fieldset>
@@ -513,7 +513,7 @@ require '../asset-core/nav-start.php';
                       </fieldset>
                       <!-- Step 4 -->
                       <h6>&nbsp;</h6>
-                      <fieldset>
+                      <!-- <fieldset>
                         <div class="row">
                           <div class="col-md-6">
                             <div class="form-group">
@@ -695,12 +695,12 @@ require '../asset-core/nav-start.php';
                             </div>
                           </div>
                         </div>
-                      </fieldset>
-                      <h6>&nbsp;</h6>
+                      </fieldset> -->
+                      <!-- <h6>&nbsp;</h6> -->
                       <fieldset>
                         <div class="row">
                           <div class="col-md-6">
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                               <label for="meetingName4">As a member of the cooperative, what do you perceive as your rights</label>
                               <table>
                                 <tbody class="table table-bordered">
@@ -980,7 +980,7 @@ require '../asset-core/nav-start.php';
                                   <option value="">Choose</option>
                                   <option value="YES">YES</option>
                                   <option value="NO">NO</option>
-                                </select>
+                                </select> -->
 
                                 <br>
                             <label>Do you have children</label>
@@ -1422,7 +1422,7 @@ require '../asset-core/nav-start.php';
                             </div>
                           </div>
                           <div class="col-md-6">
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                               <label for="decisions4">If yes, tick why this is the case</label>
                               <ul style="list-style-type: none;">
                                 <li><input type="checkbox" name="" value="I Will Loose Money">&nbsp; I Will Loose Money</li>
@@ -1440,8 +1440,8 @@ require '../asset-core/nav-start.php';
                                 </li>
                               </ul>
                             </div>
-                            <div class="form-group">
-                              <label>What do you expect to have gained from the cooperative 5 years from now</label>
+                            <div class="form-group"> -->
+                              <!-- <label>What do you expect to have gained from the cooperative 5 years from now</label>
                                 <table class="table table-bordered">
                                   <tbody>
                                     <tr>
@@ -1536,7 +1536,7 @@ require '../asset-core/nav-start.php';
                                 </table>
                                 <label>If others, specify</label>
                                 <input type="text" name="" class="form-control">
-                                <br>
+                                <br> -->
                                 <label for="meetingName4">Have you ever been to school</label>
                                   <select class="form-control">
                                     <option value="">Choose</option>
