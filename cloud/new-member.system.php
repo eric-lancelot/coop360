@@ -60,7 +60,7 @@ require '../asset-core/nav-start.php';
                             <div class="form-group">
                               <label for="lastName4">2 : Occupation</label>
                               <br>
-                              <input type="checkbox" class="form-control occupation" value="Teacher">&nbsp;Teacher&nbsp;&nbsp;
+                              <input type="checkbox" class="occupation" value="Teacher">&nbsp;Teacher&nbsp;&nbsp;
                               <input type="checkbox" class="occupation" value="Farmer">&nbsp;Farmer&nbsp;&nbsp;
                               <input type="checkbox" class="occupation" value="Trader">&nbsp;Trader&nbsp;&nbsp;
                               <input type="checkbox" class="occupation" value="Transporter">&nbsp;Transporter&nbsp;&nbsp;
@@ -1471,24 +1471,24 @@ require '../asset-core/nav-start.php';
                                 <tbody>
                                   <tr>
                                     <td>
-                                      <input type="text" name="loan_type " class="form-control loan_type ">
+                                      <input type="text" name="loan_type-1" class="form-control loan_type ">
                                     </td>
                                     <td>
-                                      <input type="text" name="loan_amount " class="form-control loan_amount ">
+                                      <input type="text" name="loan_amount" class="form-control loan_amount ">
                                     </td>
                                     <td>
-                                      <input type="text" name="loan_provider " class="form-control loan_provider ">
+                                      <input type="text" name="loan_provider" class="form-control loan_provider ">
                                     </td>
                                     <td>
-                                      <input type="text" name="loan_date " class="form-control loan_date ">
+                                      <input type="text" name="loan_date" class="form-control loan_date ">
                                     </td>
                                     <td>
-                                      <input type="text" name="loan_reason " class="form-control loan_reason ">
+                                      <input type="text" name="loan_reason" class="form-control loan_reason ">
                                     </td>
                                   </tr>
                                    <tr>
                                     <td>
-                                      <input type="text" name="loan_type " class="form-control loan_type ">
+                                      <input type="text" name="loan_type" class="form-control loan_type ">
                                     </td>
                                     <td>
                                       <input type="text" name="loan_amount " class="form-control loan_amount ">
@@ -1810,10 +1810,8 @@ require '../asset-core/footer-start.php';
       loan_amount = loan_amount.toString();  
 
       $('.loan_provider').each(function(){  
-            if($(this).is(":checked"))  
-            {  
+        
               loan_provider.push($(this).val());  
-            }  
       });  
       loan_provider = loan_provider.toString();  
       
@@ -1953,6 +1951,7 @@ require '../asset-core/footer-start.php';
       });  
       like_about_agm = like_about_agm.toString();  
 
+      
       $.ajax({
           type: "POST",
           url: "<?php echo $base_host; ?>mvc/controllers/dex-member-controller.system",
